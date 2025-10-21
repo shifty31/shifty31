@@ -1,10 +1,10 @@
 <!-- markdownlint-disable MD033 MD013-->
-<h1 align="center">Hi 👋, I'm Gino</h1>
+<h1 align="center">Hi, I'm Gino</h1>
 <h3 align="center">A passionate full-stack developer from Sydney</h3>
 
-- 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **React, JavaScript, C# and .NET**
-- 📫 How to reach me [**gino.brignardello23@gmail.com**](mailto:gino.brignardello23@gmail.com)
+- I’m currently learning **Rust**
+- Ask me about **React, JavaScript, C# and .NET**
+- How to reach me [**gino.brignardello23@gmail.com**](mailto:gino.brignardello23@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,8 +37,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <!-- mssql -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <!-- oracle -->
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shifty31&theme=tokyonight&starting_year=2020" alt="shifty31" /></p>
